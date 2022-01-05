@@ -1,6 +1,6 @@
 # Weather-Application
 
-I have created this project of Weather Application using Python and Streamlit and deployed & hosted on Heroku. Visit the website: http://ssk-mrs.herokuapp.com/
+I have created this project of Weather Application using Python and Streamlit and deployed & hosted on Heroku. Visit the website: https://ssk-weather-app.herokuapp.com/
 
 # Steps -> 
 1. Pip Install Streamlit library for local hosting.
